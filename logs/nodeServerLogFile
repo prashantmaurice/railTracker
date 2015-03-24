@@ -1,0 +1,6 @@
+[32m2014-05-18 19:40:38.772 INFO app -[39m Server log initialized.
+
+[36m2014-05-18 19:40:38.889 DEBUG app -[39m Express server listening on port 7000
+
+[36m2014-05-18 19:40:45.716 DEBUG app -[39m got request to index page
+
