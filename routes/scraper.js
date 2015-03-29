@@ -25,7 +25,7 @@ router.get('/', function(req, res) {
     res.send({ status : "scraper working"});
 });
 
-router.get('/refreshall', function (req, res) {
+router.get('/refreshnone', function (req, res) {
     callAPI(req, res, fn.bind(scraperAPI, 'scrapeFromErail'));
 });
 
